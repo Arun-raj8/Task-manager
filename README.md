@@ -1,5 +1,4 @@
 # Task-manager
-[LIVE DEMO](https://arun-raj8.github.io/Task-manager/)
 
 A task management application built with React + Vite.
 
